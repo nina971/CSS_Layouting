@@ -1,0 +1,33 @@
+/* div {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin: 20px auto;
+    padding: 50px;
+    border: 5px solid black;
+} */
+
+div {
+    width: 600px;
+    margin: 10px auto;
+}
+
+.satu {
+    width: 570px;
+    background-color: royalblue;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+
+/* menentukan lebarnya agar ukuran sama = di width div ada 
+ada nilai 600 jadi
+600 - 2 x padding 10px lalu dikurangi -2 x 5pxborder
+*/
+
+.dua {
+    width: 520px;
+    background-color: lightgreen;
+    padding: 30px;
+    border: 10px dashed orange;
+}
